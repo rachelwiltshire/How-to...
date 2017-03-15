@@ -1,2 +1,2 @@
 # How-to...
-Various help pages
+Various help pages allowing creative syntaxing
