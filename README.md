@@ -1,2 +1,2 @@
 # How-to...
-Various help pages allowing creative syntaxing
+Various help pages full of information that may or not be actually helpful to the reader. I found it helpful at some point though.
